@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Andriansyah:Latihan 3: WEB</title>
+  </head>
+  <body>
+    <h1>DJI Mavic Air</h1>
+    
+    <h2>Spesifikasi</h3>
+    <ol>
+      <li>berukuran sangat mini yaitu sekitar 16 Cm x 8.3 Cm dengan tebal 4.9 Cm apabila dilipat, dan bila tidak dilipat memiliki ukuran 16.8 Cm x 18.4 Cm serta memiliki berat 430 gram.</li>
+      <li>memiliki motor yang sangat efisien serta suara yang tidak bising, dengan teknologi desain terbaru yaitu Ecs FOC</li>
+      <li>Kapasitas baterai Lipo dari Dji Mavic Air yaitu sekitar 2375 mAh berjenis 3S</li>
+      <li>FlightAutonomy 2.0 yaitu teknologi terbaik pesawat tanpa awak yang sudah mereka kembangkan sejak lama</li>
+      <li>kecepatan maksimal dari drone ini sekitar 68 Km/Jam dalam mode sport</li>
+    </ol>
+    
+    <img src="https://www.dronezon.com/wp-content/uploads/2018/01/DJI-Mavic-Air-Features-And-Specifications-300x189.jpg" />
+  
+  </body>
+  
+</html>
